@@ -1,0 +1,21 @@
+{
+  "name": "contactlistapp",
+  "main": "server.js",
+  "description": "MEAN stack CRUD application ",
+  "version": "6.1.1",
+  "engines": {
+    "node": "6.*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pandeypooja63/Contactlist-app.git"
+  },
+  "dependencies": {
+    "express": "^4.15.x"
+  },
+  "author": "Pooja",
+  "license": "ISC"
+}

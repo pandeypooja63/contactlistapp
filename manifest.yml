@@ -1,0 +1,5 @@
+---
+applications:
+ - name: contactlistapp
+   random-route: true
+   memory: 256M
